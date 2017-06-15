@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pluralsight-gulp
 You've built your JavaScript application but how do you automate testing, code analysis, running it locally or deploying it? These redundant tasks can consume valuable time and resources. Stop working so hard and take advantage of JavaScript task automation using Gulp to streamline these tasks and give you back more time in the day. Studying this repo can help clarify how Gulp works, jump-start task automation with Gulp, find and resolve issues faster, and be a more productive.
 
@@ -21,3 +22,7 @@ $ bower install
 $ npm start
 ```
 
+=======
+# gulp-project
+gulp-project
+>>>>>>> 4a65b6ebdcc0e79b19db7673f61073e2f1fbeb80
